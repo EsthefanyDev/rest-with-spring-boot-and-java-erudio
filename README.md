@@ -65,4 +65,4 @@ mvn test
 
 ---
 
-Desenvolvido por **Esthefany** - Estudo e Prática em Engenharia de Software.
+Desenvolvido por **Esthefany** no curso de SpringBoot - Estudo e Prática em Engenharia de Software.
